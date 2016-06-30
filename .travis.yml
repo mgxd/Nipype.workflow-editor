@@ -6,5 +6,5 @@ before_script:
   - npm install
 
   - npm install -g bower
-  - bower install f
+  - bower install -f
 script: gulp
