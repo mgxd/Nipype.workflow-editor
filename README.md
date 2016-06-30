@@ -2,8 +2,19 @@ Nipype Workflow Editor
 ======================
 
  
-[![Stories in Ready](https://badge.waffle.io/hlaubisch/Nipype.workflow-editor.png?label=ready&title=Ready)](https://waffle.io/hlaubisch/Nipype.workflow-editor)
-![](https://travis-ci.org/hlaubisch/Nipype.workflow-editor.svg?branch=master)
+
+ 
+
+| Buildstatus Master Branch  | <https://travis-ci.org/hlaubisch/Nipype.workflow-editor.svg?branch=master>  |
+|----------------------------|-----------------------------------------------------------------------------|
+| Buildstatus Develop Branch | <https://travis-ci.org/hlaubisch/Nipype.workflow-editor.svg?branch=develop> |
+
+ 
+
+TravisCI Project
+[\*\*Here](https://travis-ci.org/hlaubisch/Nipype.workflow-editor)\*\*
+
+ 
 
 Create and edit Nipype workflows in the browser.
 
@@ -13,6 +24,8 @@ Create and edit Nipype workflows in the browser.
 
 Example
 -------
+
+  <https://waffle.io/hlaubisch/Nipype.workflow-editor>
 
 ![](doc/webUiInterfaceExample.png)
 
