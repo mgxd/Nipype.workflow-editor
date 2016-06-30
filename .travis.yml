@@ -2,18 +2,9 @@ language: node_js
 node_js:
   - "5.3.0"
 before_script:
-  - npm install gulp
-  - npm install wrench
-  - npm install gulp-gh-pages
-  - npm install gulp-load-plugins
-  - npm install browser-sync
-  - npm install gulp-protractor
-  - npm install wiredep
-  - npm install browser-sync-spa
-  - npm install
-  - npm install -g bower
 
-  - npm config set prefix /usr/local
+  - npm install
+
   - npm install -g bower
   - bower install f
-script: gulp 
+script: gulp
